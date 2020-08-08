@@ -14,9 +14,7 @@ Across the country, many companies have given up on their on-site servers and in
 
 Azure was created in 2010 by Microsoft to provide cloud services where users could build, test, deploy, and manage their applications on data centers of Microsoft. These data centers have been spread across 54 global regions. Microsoft offers various services across multiple domains such as Compute, Database, Content Delivery, Networking and many more.
 
-Azure Jobs
-Azure job-What is Microsoft Azure-Intellipaat
-Image source: https://www.businessinsider.com/
+## Azure Jobs
 
 Cloud is growing each day and so are the platforms that provide cloud-based services.
 
